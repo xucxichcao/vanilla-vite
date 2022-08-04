@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@use "fontawesome/brands.scss";
+@use "bootstrap/scss/bootstrap.scss";
+
+html {
+  background-color: #fafafa;
+}
+
+body {
+  h1 {
+    color: teal;
+  }
+
+  p {
+    color: dodgerblue;
+  }
+}
